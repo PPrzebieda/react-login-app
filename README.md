@@ -1,12 +1,12 @@
-#react-login-app
+# React Login Application
 
 React application with authentication components
 
-#Descripion:
+# Descripion:
 
 React application with login, registration and dashboard component. After registering an account, the user is able to log in. If the credentials are correct, a dashboard component is displayed, which shows a list of registered users with the option to delete them. In the case of incorrect data in the case of login and registration, the corresponding information is displayed. The user has the option to log out. After that the view switches to the login component.
 
-#Features: 
+# Features: 
 
 + Login component
 + Sign up component
@@ -15,6 +15,6 @@ React application with login, registration and dashboard component. After regist
 + Possibility to delete registered useres
 + Log out button
 
-#To do:
+# To do:
 
 - Store data in local storage
